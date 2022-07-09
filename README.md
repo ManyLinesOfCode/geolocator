@@ -7,3 +7,6 @@ The user can simply load the page, accept geolocation permissions, and the user'
 #
 
 I might add Google Maps integration in the future. We shall see.
+
+#
+NOTE: This repo is not currently accepting pull requests.

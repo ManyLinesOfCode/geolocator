@@ -12,4 +12,4 @@ The user can simply load the page, accept geolocation permissions, and the user'
 
 #
 
-NOTE: This repo is not currently accepting pull requests.
+NOTE: This repo is currently not accepting pull requests.

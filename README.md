@@ -8,7 +8,7 @@ The user can simply load the page, accept geolocation permissions, and the user'
 
 - Add Google Maps integration.
 - Set up a live demo with GitHub Pages.
-- Provide a major the page's styling.
+- Provide a major upgrade to the page's styling.
 
 #
 
